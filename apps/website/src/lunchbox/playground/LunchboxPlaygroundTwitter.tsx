@@ -14,7 +14,7 @@ export default function LunchboxPlaygroundTwitter() {
     <LunchboxPlayground
       cell={LunchboxItemLinkTwitter}
       cellProps={{
-        username: 'yangshun',
+        username: 'Muath',
         image,
       }}
     />

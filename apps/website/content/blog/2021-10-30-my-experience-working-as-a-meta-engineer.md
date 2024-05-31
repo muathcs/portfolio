@@ -3,8 +3,8 @@ title: My Experience Working as a Meta (previously Facebook) Engineer
 slug: my-experience-working-as-a-meta-facebook-engineer
 author: Muath
 author_title: Engineering Lead at Meta
-author_url: https://github.com/yangshun
-author_image_url: https://github.com/yangshun.png
+author_url: https://github.com/Muath
+author_image_url: https://github.com/Muath.png
 tags: [career, facebook, meta]
 hide_table_of_contents: true
 date: 2021-10-30

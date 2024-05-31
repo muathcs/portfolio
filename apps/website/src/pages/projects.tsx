@@ -22,7 +22,7 @@ export default function HomePage({}: InferGetStaticPropsType<
         <title>Muath Homepage</title>
       </Head>
       <Header rightContents={<NavLinks />} />
-      <h1 className="sr-only">Yangshun&apos;s Projects</h1>
+      <h1 className="sr-only">Muath&apos;s Projects</h1>
       <div className="flex flex-col gap-y-12">
         <section className="grid gap-y-6">
           <h2 className="sr-only">Projects</h2>

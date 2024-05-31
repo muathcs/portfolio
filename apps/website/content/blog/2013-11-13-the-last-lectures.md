@@ -2,8 +2,8 @@
 title: The Last Lectures
 slug: the-last-lectures
 author: Muath
-author_url: https://github.com/yangshun
-author_image_url: https://github.com/yangshun.png
+author_url: https://github.com/Muath
+author_image_url: https://github.com/Muath.png
 tags: [cs3216]
 date: 2013-11-13
 ---

@@ -2,8 +2,8 @@
 title: How to do Projects
 slug: how-to-do-projects
 author: Muath
-author_url: https://github.com/yangshun
-author_image_url: https://github.com/yangshun.png
+author_url: https://github.com/Muath
+author_image_url: https://github.com/Muath.png
 tags: [cs3216]
 ---
 

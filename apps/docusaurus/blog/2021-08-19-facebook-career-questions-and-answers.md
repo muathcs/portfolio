@@ -3,8 +3,8 @@ title: Facebook Career Q&A
 slug: facebook-career-questions-and-answers
 author: Muath
 author_title: Engineering Lead at Facebook
-author_url: https://github.com/yangshun
-author_image_url: https://github.com/yangshun.png
+author_url: https://github.com/Muath
+author_image_url: https://github.com/Muath.png
 tags: [career, facebook, meta]
 hide_table_of_contents: true
 ---

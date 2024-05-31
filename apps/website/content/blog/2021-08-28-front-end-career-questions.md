@@ -3,8 +3,8 @@ title: Front End Career Questions
 slug: front-end-career-questions
 author: Muath
 author_title: Engineering Lead at Facebook
-author_url: https://github.com/yangshun
-author_image_url: https://github.com/yangshun.png
+author_url: https://github.com/Muath
+author_image_url: https://github.com/Muath.png
 tags: [front end, career]
 hide_table_of_contents: true
 date: 2021-08-28

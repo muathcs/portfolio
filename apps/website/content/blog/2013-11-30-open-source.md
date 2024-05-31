@@ -2,8 +2,8 @@
 title: Open Source
 slug: open-source
 author: Muath
-author_url: https://github.com/yangshun
-author_image_url: https://github.com/yangshun.png
+author_url: https://github.com/Muath
+author_image_url: https://github.com/Muath.png
 tags: [open source]
 date: 2013-11-30
 ---

@@ -2,8 +2,8 @@
 title: What I Want to Build in CS3216
 slug: what-i-want-to-build-in-cs3216
 author: Muath
-author_url: https://github.com/yangshun
-author_image_url: https://github.com/yangshun.png
+author_url: https://github.com/Muath
+author_image_url: https://github.com/Muath.png
 tags: [cs3216]
 ---
 

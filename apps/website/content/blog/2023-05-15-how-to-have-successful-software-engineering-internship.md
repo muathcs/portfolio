@@ -3,8 +3,8 @@ title: How to have a Successful Software Engineering Internship
 slug: how-to-have-successful-software-engineering-internship
 author: Muath
 author_title: Ex-Staff Engineer at Meta
-author_url: https://github.com/yangshun
-author_image_url: https://github.com/yangshun.png
+author_url: https://github.com/Muath
+author_image_url: https://github.com/Muath.png
 tags: [career, internship, software-engineering]
 hide_table_of_contents: true
 date: 2023-05-15

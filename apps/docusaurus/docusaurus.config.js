@@ -8,7 +8,7 @@
 const internetProfiles = {
   github: {
     label: 'GitHub',
-    href: 'https://github.com/yangshun',
+    href: 'https://github.com/Muath',
   },
   stackoverflow: {
     label: 'StackOverflow',
@@ -16,40 +16,40 @@ const internetProfiles = {
   },
   linkedin: {
     label: 'LinkedIn',
-    href: 'https://www.linkedin.com/in/yangshun',
+    href: 'https://www.linkedin.com/in/Muath',
   },
   medium: {
     label: 'Medium',
-    href: 'https://medium.com/@yangshun',
+    href: 'https://medium.com/@Muath',
   },
   twitter: {
     label: 'Twitter',
-    href: 'https://twitter.com/yangshunz',
+    href: 'https://twitter.com/Muathz',
   },
   facebook: {
     label: 'Facebook',
-    href: 'https://facebook.com/yangshun',
+    href: 'https://facebook.com/Muath',
   },
 };
 
 module.exports = {
   title: 'Muath',
   tagline: 'Front End Engineer',
-  url: 'https://yangshuntay.com',
+  url: 'https://Muathtay.com',
   baseUrl: '/',
   trailingSlash: true,
-  organizationName: 'yangshun',
-  projectName: 'yangshuntay.com',
+  organizationName: 'Muath',
+  projectName: 'Muathtay.com',
   themeConfig: {
     internetProfiles,
     navbar: {
-      title: 'Yangshun',
+      title: 'Muath',
       items: [
         {to: 'blog', label: 'Blog', position: 'left'},
         {to: 'resume', label: 'Resume', position: 'left'},
         {to: 'goals', label: 'Life Goals', position: 'left'},
         {
-          href: 'https://github.com/yangshun',
+          href: 'https://github.com/Muath',
           label: 'GitHub',
           position: 'right',
         },

@@ -2,8 +2,8 @@
 title: Facebook Open Academy Reflections
 slug: facebook-open-academy-reflections
 author: Muath
-author_url: https://github.com/yangshun
-author_image_url: https://github.com/yangshun.png
+author_url: https://github.com/Muath
+author_image_url: https://github.com/Muath.png
 tags: [facebook, open source]
 date: 2014-05-08
 ---

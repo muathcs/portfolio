@@ -1,6 +1,6 @@
 ---
 title: Life Goals
-description: Yangshun's life goals
+description: Muath's life goals
 hide_table_of_contents: true
 ---
 

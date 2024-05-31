@@ -2,8 +2,8 @@
 title: What I hope to learn in CS3216
 slug: what-i-hope-to-learn-in-cs3216
 author: Muath
-author_url: https://github.com/yangshun
-author_image_url: https://github.com/yangshun.png
+author_url: https://github.com/Muath
+author_image_url: https://github.com/Muath.png
 tags: [cs3216]
 ---
 
@@ -27,7 +27,7 @@ I'm not new to web development. It's weird but I enjoy writing HTML and Markdown
 
 Technically speaking, I'm a Year 4 in SoC but the truth is that I have only completed 5 CS modules so far. That is because I started university majoring in Mechnical Engineering but I grew to love programming after taking a compulsory introduction to programming course in my first year (CS1010E). I found myself spending more time on coding than my mechanical engineering modules. I didn't really understand what I was studying in ME and I was familiarizing myself with question patterns rather than understanding the concepts in order to clear the exams. In the end, I took a gamble and applied to switch courses after Year 2 Sem 1. My results were decent enough and I had a recommendation from Dr Ang Chuan Heng whom I worked for while serving as a Teaching Assistant for CS1020E. In the end, I could switch course and even keep my NUS Faculty Scholarship. It was too good to be true. I haven't enjoyed school so much in my life before.
 
-But this also means that I was behind many of my peers. I have to work doubly hard in order to make up for the lost time. As warm up for CS3216, I coded this static site blogging engine using AngularJS, called [**Luna**](https://github.com/yangshun/luna). I'm a front end guy, I dislike using command line interfaces and dealing with databases, hence I was fascinated by static site templating engines. I was inspired by [**Jekyll**](http://jekyllrb.com/) and [**Empress**](https://github.com/hodgesmr/Empress), which are static site engines that generate HTML pages from markdown files. Luna is more flexible to use compared to Blogger and Wordpress (mainly because I built it) as I only have to write the blog content in markdown and run a python script to generate the content in JSON. I also happen to like to customise my own sites and I quite enjoy using this so far! (:
+But this also means that I was behind many of my peers. I have to work doubly hard in order to make up for the lost time. As warm up for CS3216, I coded this static site blogging engine using AngularJS, called [**Luna**](https://github.com/Muath/luna). I'm a front end guy, I dislike using command line interfaces and dealing with databases, hence I was fascinated by static site templating engines. I was inspired by [**Jekyll**](http://jekyllrb.com/) and [**Empress**](https://github.com/hodgesmr/Empress), which are static site engines that generate HTML pages from markdown files. Luna is more flexible to use compared to Blogger and Wordpress (mainly because I built it) as I only have to write the blog content in markdown and run a python script to generate the content in JSON. I also happen to like to customise my own sites and I quite enjoy using this so far! (:
 
 **_Update 2021: I've migrated this blog to Docusaurus, which is also a static site generator built by me._**
 

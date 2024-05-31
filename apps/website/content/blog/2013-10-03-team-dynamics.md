@@ -2,8 +2,8 @@
 title: Team Dynamics
 slug: team-dynamics
 author: Muath
-author_url: https://github.com/yangshun
-author_image_url: https://github.com/yangshun.png
+author_url: https://github.com/Muath
+author_image_url: https://github.com/Muath.png
 tags: [cs3216]
 date: 2013-10-03
 ---

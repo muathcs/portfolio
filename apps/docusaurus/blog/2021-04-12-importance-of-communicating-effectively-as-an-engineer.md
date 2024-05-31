@@ -3,8 +3,8 @@ title: Importance of Communicating Effectively as Engineers
 slug: importance-of-communicating-effectively-as-engineers
 author: Muath
 author_title: Engineering Lead at Facebook
-author_url: https://github.com/yangshun
-author_image_url: https://github.com/yangshun.png
+author_url: https://github.com/Muath
+author_image_url: https://github.com/Muath.png
 tags: [career, communication]
 ---
 

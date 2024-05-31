@@ -14,7 +14,7 @@ export default function LunchboxPlaygroundInstagram() {
     <LunchboxPlayground
       cell={LunchboxItemLinkInstagram}
       cellProps={{
-        username: 'yangshun',
+        username: 'Muath',
         image,
       }}
     />

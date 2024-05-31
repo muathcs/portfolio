@@ -2,8 +2,8 @@
 title: Are Front End Development Skills Enough for a Career?
 slug: are-front-end-development-skills-enough-for-a-career
 author: Muath
-author_url: https://github.com/yangshun
-author_image_url: https://github.com/yangshun.png
+author_url: https://github.com/Muath
+author_image_url: https://github.com/Muath.png
 tags: [career, front end]
 ---
 

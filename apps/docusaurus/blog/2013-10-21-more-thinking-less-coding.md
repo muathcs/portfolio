@@ -2,8 +2,8 @@
 title: More Thinking, Less Coding
 slug: more-thinking-less-coding
 author: Muath
-author_url: https://github.com/yangshun
-author_image_url: https://github.com/yangshun.png
+author_url: https://github.com/Muath
+author_image_url: https://github.com/Muath.png
 tags: [cs3216]
 ---
 
