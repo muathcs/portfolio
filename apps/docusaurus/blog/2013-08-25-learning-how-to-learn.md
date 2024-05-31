@@ -1,7 +1,7 @@
 ---
 title: Learning How to Learn
 slug: learning-how-to-learn
-author: Yangshun Tay
+author: Muath
 author_url: https://github.com/yangshun
 author_image_url: https://github.com/yangshun.png
 tags: [cs3216]

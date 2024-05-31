@@ -33,7 +33,7 @@ const internetProfiles = {
 };
 
 module.exports = {
-  title: 'Yangshun Tay',
+  title: 'Muath',
   tagline: 'Front End Engineer',
   url: 'https://yangshuntay.com',
   baseUrl: '/',

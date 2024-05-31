@@ -1,7 +1,7 @@
 ---
 title: Front End Career Questions
 slug: front-end-career-questions
-author: Yangshun Tay
+author: Muath
 author_title: Engineering Lead at Facebook
 author_url: https://github.com/yangshun
 author_image_url: https://github.com/yangshun.png

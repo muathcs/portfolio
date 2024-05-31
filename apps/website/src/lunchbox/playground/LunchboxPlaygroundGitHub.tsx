@@ -14,7 +14,7 @@ export default function LunchboxPlaygroundGitHub() {
     <LunchboxPlayground
       cell={LunchboxItemLinkGitHub}
       cellProps={{
-        username: 'yangshun',
+        username: 'muath',
         image,
       }}
     />

@@ -1,7 +1,7 @@
 ---
 title: Team Dynamics
 slug: team-dynamics
-author: Yangshun Tay
+author: Muath
 author_url: https://github.com/yangshun
 author_image_url: https://github.com/yangshun.png
 tags: [cs3216]

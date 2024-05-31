@@ -1,7 +1,7 @@
 ---
 title: Web Development is a PITA
 slug: web-development-is-a-pita
-author: Yangshun Tay
+author: Muath
 author_url: https://github.com/yangshun
 author_image_url: https://github.com/yangshun.png
 tags: [cs3216]

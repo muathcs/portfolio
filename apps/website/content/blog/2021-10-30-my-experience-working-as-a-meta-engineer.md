@@ -1,7 +1,7 @@
 ---
 title: My Experience Working as a Meta (previously Facebook) Engineer
 slug: my-experience-working-as-a-meta-facebook-engineer
-author: Yangshun Tay
+author: Muath
 author_title: Engineering Lead at Meta
 author_url: https://github.com/yangshun
 author_image_url: https://github.com/yangshun.png

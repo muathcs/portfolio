@@ -24,7 +24,7 @@ export default function BlogIndexPage({
   return (
     <>
       <Head>
-        <title>Yangshun Tay Homepage</title>
+        <title>Muath Homepage</title>
       </Head>
       <Header rightContents={<NavLinks />} />
       <ul className="flex flex-col gap-y-4">
@@ -33,7 +33,7 @@ export default function BlogIndexPage({
             className="flex gap-x-4 justify-between md:items-center"
             key={post.url}>
             <Link href={post.url} className="hover:underline">
-              <h2 className="tracking-tight font-semibold">{post.title}x</h2>
+              <h2 className="tracking-tight font-semibold">{post.title}</h2>
             </Link>
             {post.date && (
               <p className="text-zinc-400 text-xs whitespace-nowrap">

@@ -1,7 +1,7 @@
 ---
 title: Facebook Career Q&A
 slug: facebook-career-questions-and-answers
-author: Yangshun Tay
+author: Muath
 author_title: Engineering Lead at Facebook
 author_url: https://github.com/yangshun
 author_image_url: https://github.com/yangshun.png

@@ -1,7 +1,7 @@
 ---
 title: Reflections of a CS1010S Head Tutor
 slug: reflections-of-a-cs1010s-head-tutor
-author: Yangshun Tay
+author: Muath
 author_url: https://github.com/yangshun
 author_image_url: https://github.com/yangshun.png
 tags: [cs1010s]

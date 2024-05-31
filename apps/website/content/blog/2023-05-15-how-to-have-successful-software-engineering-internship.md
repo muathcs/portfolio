@@ -1,7 +1,7 @@
 ---
 title: How to have a Successful Software Engineering Internship
 slug: how-to-have-successful-software-engineering-internship
-author: Yangshun Tay
+author: Muath
 author_title: Ex-Staff Engineer at Meta
 author_url: https://github.com/yangshun
 author_image_url: https://github.com/yangshun.png

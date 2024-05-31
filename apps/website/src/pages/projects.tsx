@@ -19,7 +19,7 @@ export default function HomePage({}: InferGetStaticPropsType<
   return (
     <div>
       <Head>
-        <title>Yangshun Tay Homepage</title>
+        <title>Muath Homepage</title>
       </Head>
       <Header rightContents={<NavLinks />} />
       <h1 className="sr-only">Yangshun&apos;s Projects</h1>
