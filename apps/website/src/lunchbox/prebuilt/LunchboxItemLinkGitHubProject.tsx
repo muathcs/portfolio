@@ -45,21 +45,22 @@ export default function LunchboxItemLinkGitHubProject({
         )}>
         Github
       </a>
-      {/* <a
+      <a
         href={live}
         target="_blank"
         rel="noreferrer"
         className={clsx(
-          'inline-flex px-3 py-1.5 rounded-lg ',
+          'inline-flex px-3 py-1.5 rounded-lg',
           'text-xs text-center font-semibold',
           'transition',
           'text-[#24292f]',
           'border border-[#1f2328]/15',
           'shadow-sm',
+          'cursor-pointer',
           'bg-[#f6f8fa] hover:bg-[#f3f4f6]',
         )}>
         Live
-      </a> */}
+      </a>
     </div>
   );
 

@@ -35,6 +35,7 @@ export default function HomePage({}: InferGetStaticPropsType<
               title="Celebrity Personalised messages Platform"
               repoName="video-streaming-platform.git"
               description="Book a shoutout from your favourite celeb"
+              live="https://vid-stream-cl.onrender.com/"
               image={
                 <Image
                   alt="Tech Interview Handbook"
@@ -70,6 +71,7 @@ export default function HomePage({}: InferGetStaticPropsType<
               repoName="twitter-clone"
               title="Twitter Clone Type-Script and Mongodb"
               description=""
+              live="https://twitter-clone-client-v76u.onrender.com/"
               image={
                 <img
                   alt="Front End Interview Handbook"
@@ -83,6 +85,7 @@ export default function HomePage({}: InferGetStaticPropsType<
               cols={4}
               username="muathcs"
               repoName="saas-One"
+              live="https://qtink.com"
               title="Qtink Cognitive ability testing site"
               description="A website to test your cognitive ability compared to other users using bell curve"
             />
