@@ -129,8 +129,8 @@ function LunchboxItemLink4x8({
   console.log('TEST: ', test);
   return (
     <div className="w-full flex flex-row h-full p-6 items-stretch justify-between gap-4 px-2  ">
-      <div className={clsx('flex justify-between gap-4 h-full w-1/2 ')}>
-        <div className={clsx('grid gap-2  h-full overflow-auto    ')}>
+      <div className={clsx('flex justify-between gap-4 h-full w-1/2  ')}>
+        <div className={clsx('grid gap-2  h-full overflow-auto   pl-2 ')}>
           {/* {icon} */}
           <div className="flex flex-col  h-full  ">
             <p className="text-lg  font-semibold mb-2">{title}</p>

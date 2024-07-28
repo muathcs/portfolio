@@ -58,6 +58,7 @@ export default function HomePage({
             cols={4}
             username="code with mimo"
           /> */}
+        </LunchboxGrid>
       </section>
     </div>
   );
