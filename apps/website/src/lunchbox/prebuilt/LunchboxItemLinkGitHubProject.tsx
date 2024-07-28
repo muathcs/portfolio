@@ -26,10 +26,16 @@ export default function LunchboxItemLinkGitHubProject({
   repoName,
   ...props
 }: Props) {
+  const {className, cols, rows, ...rest} = props;
+
   const title = titleProp ?? repoName;
   const subtitle = description;
   const action = (
-    <div className="flex gap-1">
+    <div
+      className={clsx(
+        'flex gap-1 flex-col md:flex-row  ',
+        cols == 8 && 'mt-5',
+      )}>
       <a
         href={`https://github.com/${username}/${repoName}`}
         target="_blank"
@@ -41,7 +47,8 @@ export default function LunchboxItemLinkGitHubProject({
           'text-[#24292f]',
           'border border-[#1f2328]/15',
           'shadow-sm',
-          'bg-[#f6f8fa] hover:bg-[#f3f4f6]',
+          'bg-[#f6f8fa] hover:bg-[#f3f4f6] flex items-center justify-center',
+          cols === 8 && 'px-8 py-5',
         )}>
         Github
       </a>
@@ -57,7 +64,8 @@ export default function LunchboxItemLinkGitHubProject({
           'border border-[#1f2328]/15',
           'shadow-sm',
           'cursor-pointer',
-          'bg-[#f6f8fa] hover:bg-[#f3f4f6]',
+          'bg-[#f6f8fa] hover:bg-[#f3f4f6] ',
+          cols === 8 && 'px-8 py-5 flex justify-center items-center',
         )}>
         Live
       </a>

@@ -115,6 +115,44 @@ function LunchboxItemLink4x4({
     </div>
   );
 }
+function LunchboxItemLink4x8({
+  action,
+  icon,
+  image,
+  subtitle,
+  title,
+}: SelfProps) {
+  console.log('sub: ', subtitle);
+
+  const test = subtitle?.split('\\n');
+
+  console.log('TEST: ', test);
+  return (
+    <div className="w-full flex flex-row h-full p-6 items-stretch justify-between gap-4 px-2  ">
+      <div className={clsx('flex justify-between gap-4 h-full w-1/2 ')}>
+        <div className={clsx('grid gap-2  h-full overflow-auto    ')}>
+          {/* {icon} */}
+          <div className="flex flex-col  h-full  ">
+            <p className="text-lg  font-semibold mb-2">{title}</p>
+            {/* <p className=" text-zinc-500 text-sm ">{subtitle}</p> */}
+
+            {subtitle?.split('\\n').map((line, index) => (
+              <p
+                key={index}
+                className="mb-2 text-zinc-500 text-xs sm:text-sm  ">
+                {line}
+              </p>
+            ))}
+          </div>
+        </div>
+      </div>
+      <div className="flex flex-col h-full justify-between items-end  overflow-hidden gap-2 w-1/2 ">
+        {action}
+        {image}
+      </div>
+    </div>
+  );
+}
 
 export default function LunchboxItemLink(props: Props) {
   const {className, cols, rows, ...rest} = props;
@@ -123,7 +161,7 @@ export default function LunchboxItemLink(props: Props) {
     <LunchboxItem
       className={clsx('bg-re hover:shadow-lg transition', className)}
       {...props}>
-      <div className={clsx('absolute w-full inset-0 flex h-full')}>
+      <div className={clsx('absolute bg w-full inset-0 flex h-full')}>
         {(() => {
           if (rows === 1 && cols === 4) {
             return <LunchboxItemLink1x4 {...rest} />;
@@ -143,6 +181,9 @@ export default function LunchboxItemLink(props: Props) {
 
           if (rows === 4 && cols === 4) {
             return <LunchboxItemLink4x4 {...rest} />;
+          }
+          if (rows === 4 && cols === 8) {
+            return <LunchboxItemLink4x8 {...rest} />;
           }
         })()}
       </div>
