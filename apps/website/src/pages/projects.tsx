@@ -51,7 +51,7 @@ export default function HomePage({}: InferGetStaticPropsType<
               rows={4}
               cols={8}
               username="muathcs"
-              title="Celebrity Personalised messages Platform"
+              title="Celebrity Personalised messages Platform (please wait 30 seconds for the server to load)"
               repoName="video-streaming-platform.git"
               description="Book a shoutout from your favourite celeb\n I developed a Cameo clone utilizing the following technologies: Front-end with React, Back-end using Node.js/Express, PostgreSQL for the database, Firebase for authentication, and a Python/PyTorch-based AI recommender system. Key features include a comprehensive notification system to keep users informed about updates and interactions, an AI-powered recommender system that suggests content based on user preferences and behavior, and a robust refund system to manage cancellations and disputes efficiently. This project demonstrates a full-stack implementation with advanced functionality like real-time notifications and personalized recommendations."
               live="https://vid-stream-cl.onrender.com/"
@@ -88,7 +88,7 @@ export default function HomePage({}: InferGetStaticPropsType<
               cols={8}
               username="muathcs"
               repoName="twitter-clone"
-              title="Twitter Clone Type-Script and Mongodb"
+              title="Twitter Clone Type-Script and Mongodb (please wait 30 seconds for the server to load)"
               description=""
               live="https://twitter-clone-client-v76u.onrender.com/"
               image={
