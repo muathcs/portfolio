@@ -128,8 +128,13 @@ function LunchboxItemLink4x8({
 
   console.log('TEST: ', test);
   return (
-    <div className="w-full flex flex-row h-full p-6 items-stretch justify-between gap-4 px-2  ">
-      <div className={clsx('flex justify-between gap-4 h-full w-1/2  ')}>
+    <div className="w-full flex flex-col sm:flex-row h-full p-6 items-stretch justify-between  gap-4 py-2 px-2   ">
+      <div className="sm:flex flex-col h-full justify-between   overflow-hidden gap-2 w-2/2  hidden   ">
+        {image}
+        {action}
+      </div>
+      <div
+        className={clsx('flex justify-between gap-4 h-full w-full sm:w-1/2  ')}>
         <div className={clsx('grid gap-2  h-full overflow-auto   pl-2 ')}>
           {/* {icon} */}
           <div className="flex flex-col  h-full  ">
@@ -139,17 +144,14 @@ function LunchboxItemLink4x8({
             {subtitle?.split('\\n').map((line, index) => (
               <p
                 key={index}
-                className="mb-2 text-zinc-500 text-xs sm:text-sm  ">
+                className="mb-2 text-zinc-700 text-xs sm:text-sm  ">
                 {line}
               </p>
             ))}
           </div>
         </div>
       </div>
-      <div className="flex flex-col h-full justify-between items-end  overflow-hidden gap-2 w-1/2 ">
-        {action}
-        {image}
-      </div>
+      <div className="sm:hidden">{action}</div>
     </div>
   );
 }

@@ -34,7 +34,7 @@ export default function HomePage({
   posts,
 }: InferGetStaticPropsType<typeof getStaticProps>) {
   return (
-    <div className="flex flex-col gap-y-12">
+    <div className="flex flex-col gap-y-12 b">
       <Head>
         <title>Muath Homepage</title>
       </Head>
@@ -42,10 +42,13 @@ export default function HomePage({
       <section className="grid gap-y-6">
         <h2 className="sr-only tracking-tight font-bold text-4xl">About</h2>
         <p className="text-zinc-600 col-span-3">
-          Full Stack Engineer proficient in the entire stack. Passionate about
-          developing robust applications, designing scalable systems, and
-          enhancing user experience. Experienced in developing enterprise level
-          software from the ground up.
+          I'm a dedicated Software Engineer with over a year of professional
+          experience and more than four years of programming expertise. I have
+          built and contributed to large-scale projects, including a
+          video-sharing platform, using technologies like React, TypeScript,
+          Node.js, Express, and PostgreSQL. I specialize in writing clean,
+          well-tested, production-ready code and have experience with modern
+          tools like Jest, CronJobs, and Stripe integration.
         </p>
       </section>
       <section className="grid gap-y-6">
