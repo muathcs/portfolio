@@ -20,7 +20,7 @@ const internetProfiles = {
   twitter: {
     label: 'Twitter',
     icon: BsTwitter,
-    href: 'https://x.com/muathio',
+    href: 'https://x.com/muathcsx',
   },
   stackoverflow: {
     label: 'StackOverflow',

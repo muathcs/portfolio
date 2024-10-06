@@ -13,7 +13,7 @@ type Props = Pick<SelfProps, 'className' | 'image'> &
     username: string;
     repoName: string;
     description?: string;
-    noGit?: string;
+    noGit?: boolean;
     live?: string;
   }>;
 

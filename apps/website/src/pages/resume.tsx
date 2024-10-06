@@ -32,12 +32,6 @@ export default function HomePage({}: InferGetStaticPropsType<
       <div className="flex flex-col gap-y-12">
         <section className="grid gap-y-4">
           <h2 className="sr-only tracking-tight font-bold text-xl">About</h2>
-          <p className="text-zinc-600 col-span-3">
-            Full Stack Engineer proficient in the entire stack. Passionate about
-            developing robust applications, designing scalable systems, and
-            enhancing user experience. Experienced in developing enterprise
-            level software from the ground up.
-          </p>
         </section>
         <section className="grid gap-y-4">
           <h2 className="tracking-tight font-bold text-xl">Experience</h2>
@@ -49,6 +43,7 @@ export default function HomePage({}: InferGetStaticPropsType<
                   icon={GrabIcon}
                 />
               }
+              className="cursor-pointer"
               company="Sabratha Private Clinic"
               description={
                 <ul className="list-disc">
@@ -73,6 +68,7 @@ export default function HomePage({}: InferGetStaticPropsType<
                   icon={GrabIcon}
                 />
               }
+              className="cursor-pointer"
               company="Sabratha Private Clinic"
               description={
                 <ul className="list-disc">
@@ -91,7 +87,7 @@ export default function HomePage({}: InferGetStaticPropsType<
               }
               jobTitle="Software Engineer Intern"
               start={'June-2023'}
-              end={'September-2023'}
+              end={'june-2024'}
               rows={2}
               cols={4}
             />
@@ -117,7 +113,7 @@ export default function HomePage({}: InferGetStaticPropsType<
                   year: 2024,
                   title: 'Flex',
                   href: 'https://github.com/muathcs/react-native-flex',
-                  description: <>A React native stretching app</>,
+                  description: <>A React native excercise app</>,
                 },
 
                 {
@@ -128,6 +124,17 @@ export default function HomePage({}: InferGetStaticPropsType<
                     <>
                       NextJS e-commerce for selling digital goods built using
                       TypeScript and Postgres
+                    </>
+                  ),
+                },
+                {
+                  year: 2024,
+                  title: 'Blockchain simulator',
+                  href: 'https://github.com/muathcs/BlockCahin',
+                  description: (
+                    <>
+                      I built a blockchain application in C# that simulates the
+                      core functionalities of a real blockchain
                     </>
                   ),
                 },

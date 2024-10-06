@@ -54,7 +54,7 @@ export default function HomePage({}: InferGetStaticPropsType<
               username="muathcs"
               title="Celebrity Personalised messages Platform (please wait 30 seconds for the server to load)"
               repoName="video-streaming-platform.git"
-              description="I developed a platform where users can book personalized shoutouts from celebrities, inspired by the idea of connecting fans with their favorite public figures in a more personal way. The project uses a modern tech stack: React for the front-end, Node.js/Express for the back-end, PostgreSQL for the database, and Firebase for authentication. It also features an AI-powered recommender system built with Python and PyTorch, suggesting content based on user preferences and behavior. Key features include a comprehensive notification system to keep users updated, and a robust refund system to manage cancellations and disputes efficiently. This project demonstrates full-stack development with advanced features like real-time notifications and personalized recommendations."
+              description="Testing Login email:mm1@gmail.com password:123456 \n I developed a platform where users can book personalized shoutouts from celebrities, inspired by the idea of connecting fans with their favorite public figures in a more personal way. The project uses a modern tech stack: React for the front-end, Node.js/Express for the back-end, PostgreSQL for the database, and Firebase for authentication. It also features an AI-powered recommender system built with Python and PyTorch, suggesting content based on user preferences and behavior. Key features include a comprehensive notification system to keep users updated, and a robust refund system to manage cancellations and disputes efficiently. This project demonstrates full-stack development with advanced features like real-time notifications and personalized recommendations."
               live="https://vid-stream-cl.onrender.com/"
               image={
                 <Image
@@ -71,7 +71,6 @@ export default function HomePage({}: InferGetStaticPropsType<
               cols={8}
               username="muathcs"
               repoName="BlockCahin"
-              no-website={true}
               noGit={true}
               live="https://qtink.com"
               title="Blockchain Simulator in C#"
@@ -115,6 +114,7 @@ export default function HomePage({}: InferGetStaticPropsType<
                   alt="Front End Interview Handbook"
                   className="object-contain group-hover:scale-105 cursor-pointer transition h-[90%] rounded-lg"
                   src="/img/twitter.webp"
+                  width={350}
                 />
               }
             />

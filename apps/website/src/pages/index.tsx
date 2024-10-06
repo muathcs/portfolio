@@ -41,7 +41,7 @@ export default function HomePage({
       <Header rightContents={<NavLinks />} />
       <section className="grid gap-y-6">
         <h2 className="sr-only tracking-tight font-bold text-4xl">About</h2>
-        <p className="text-zinc-600 col-span-3">
+        <p className="text-zinc-800 col-span-3">
           I'm a dedicated Software Engineer with over a year of professional
           experience and more than four years of programming expertise. I have
           built and contributed to large-scale projects, including a
@@ -49,13 +49,31 @@ export default function HomePage({
           Node.js, Express, and PostgreSQL. I specialize in writing clean,
           well-tested, production-ready code and have experience with modern
           tools like Jest, CronJobs, and Stripe integration.
+          <br />
+          <br />
+          In addition to my core expertise, my work spans a wide range of
+          impactful projects. I have developed a blockchain simulator, gaining
+          valuable insights into how blockchain technology operates. My
+          experience in AI and machine learning includes building a heart
+          disease detection system and an image classifier, applying advanced
+          algorithms to tackle challenging real-world problems.
+          <br />
+          <br />I also worked as a software engineer intern at a private health
+          clinic, where I implemented RESTful APIs using Node.js and optimized
+          PostgreSQL queries, improving data retrieval speed by 50% and system
+          performance by 25%. I developed a real-time notification system with
+          WebSockets, reducing stock outs by 30%, and built internal tools with
+          React and Node.js to streamline administrative workflows.
+          Additionally, I created custom Express middleware for secure access
+          and designed unit tests with Jest, which improved code reliability and
+          reduced bugs in production by 20%.
         </p>
       </section>
       <section className="grid gap-y-6">
         <h2 className="tracking-tight font-bold text-xl">Find Me Online</h2>
         <LunchboxGrid>
           <LunchboxItemLinkGitHub rows={1} cols={4} username="muathcs" />
-          <LunchboxItemLinkTwitter rows={1} cols={4} username="muathio" />
+          <LunchboxItemLinkTwitter rows={1} cols={4} username="muathcsx" />
           {/* <LunchboxItemLinkYouTube
             rows={1}
             cols={4}
