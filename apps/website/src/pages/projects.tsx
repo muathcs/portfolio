@@ -28,26 +28,6 @@ export default function HomePage({}: InferGetStaticPropsType<
           <h2 className="sr-only">Projects</h2>
           <LunchboxGrid>
             <LunchboxItemLinkGitHubProject
-              className="group "
-              rows={4}
-              cols={8}
-              username="muathcs"
-              title="Digital E-Commerce Store"
-              repoName="ReserverIt.git"
-              description="I developed a digital e-commerce store enabling users to buy and sell a variety of digital products, such as templates, icons, and UI designs. The technology stack includes NEXT.js for both the front-end and back-end, with PostgreSQL serving as the database. File uploads are efficiently managed using UploadThing, while Zod is employed for robust server-side validation. The application is styled with Tailwind CSS, ensuring a modern and responsive design. Additionally, Stripe Custom Accounts are integrated to securely handle payments between buyers and sellers, streamlining the transaction process. This project showcases a comprehensive digital marketplace with secure payment handling and a user-friendly interface."
-              live="https://reserver-it.vercel.app/"
-              image={
-                <Image
-                  alt="Tech Interview Handbook"
-                  className="object-contain group-hover:scale-105 transition cursor-pointer rounded-lg  "
-                  width={400}
-                  height={500}
-                  src="/img/reserveIt.png"
-                />
-              }
-            />
-
-            <LunchboxItemLinkGitHubProject
               className="group"
               rows={4}
               cols={8}
@@ -63,6 +43,25 @@ export default function HomePage({}: InferGetStaticPropsType<
                   width={400}
                   height={400}
                   src="/img/video-sharing.png"
+                />
+              }
+            />
+            <LunchboxItemLinkGitHubProject
+              className="group "
+              rows={4}
+              cols={8}
+              username="muathcs"
+              title="Digital E-Commerce Store"
+              repoName="ReserverIt.git"
+              description="I developed a digital e-commerce store enabling users to buy and sell a variety of digital products, such as templates, icons, and UI designs. The technology stack includes NEXT.js for both the front-end and back-end, with PostgreSQL serving as the database. File uploads are efficiently managed using UploadThing, while Zod is employed for robust server-side validation. The application is styled with Tailwind CSS, ensuring a modern and responsive design. Additionally, Stripe Custom Accounts are integrated to securely handle payments between buyers and sellers, streamlining the transaction process. This project showcases a comprehensive digital marketplace with secure payment handling and a user-friendly interface."
+              live="https://reserver-it.vercel.app/"
+              image={
+                <Image
+                  alt="Tech Interview Handbook"
+                  className="object-contain group-hover:scale-105 transition cursor-pointer rounded-lg  "
+                  width={400}
+                  height={500}
+                  src="/img/reserveIt.png"
                 />
               }
             />
@@ -107,7 +106,7 @@ export default function HomePage({}: InferGetStaticPropsType<
               username="muathcs"
               repoName="twitter-clone"
               title="Twitter Clone Type-Script and Mongodb (please wait 30 seconds for the server to load)"
-              description="I built a Twitter clone using TypeScript and MongoDB, which replicates core features of the popular platform, including real-time posting, user authentication, and a responsive feed. This project showcases my ability to work with modern web technologies and full-stack development, incorporating TypeScript for robust type safety and MongoDB for efficient, scalable data storage. The server is optimized for performance, and the project demonstrates my skills in building dynamic, user-centric applications. (Please allow 30 seconds for the server to load.)"
+              description="I built a Twitter clone primarily to showcase my UI skills, using TypeScript and MongoDB. While it replicates some core features of the popular platform, including real-time posting, user authentication, and a responsive feed, the main focus was on creating a visually appealing and interactive user interface. This project demonstrates my ability to work with modern web technologies and full-stack development, with a particular emphasis on front-end design and user experience. The use of TypeScript ensures robust type safety, while MongoDB provides efficient data storage. Although the server is functional, the project's strength lies in its UI implementation, showcasing my skills in building dynamic, visually engaging applications. (Please allow 30 seconds for the server to load.)"
               live="https://twitter-clone-client-v76u.onrender.com/"
               image={
                 <img

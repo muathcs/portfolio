@@ -58,15 +58,15 @@ export default function HomePage({
           disease detection system and an image classifier, applying advanced
           algorithms to tackle challenging real-world problems.
           <br />
-          <br />I also worked as a software engineer intern at a private health
-          clinic, where I implemented RESTful APIs using Node.js and optimized
-          PostgreSQL queries, improving data retrieval speed by 50% and system
-          performance by 25%. I developed a real-time notification system with
-          WebSockets, reducing stock outs by 30%, and built internal tools with
-          React and Node.js to streamline administrative workflows.
-          Additionally, I created custom Express middleware for secure access
-          and designed unit tests with Jest, which improved code reliability and
-          reduced bugs in production by 20%.
+          <br />I also gained valuable experience as a software engineer intern
+          at a private health clinic. This role allowed me to apply my skills in
+          a real-world healthcare setting, where I worked on improving system
+          performance, developing APIs, and creating tools to streamline
+          workflows. This experience not only enhanced my technical abilities
+          but also gave me insight into how technology can directly impact and
+          improve healthcare services. Outside of work, I'm passionate about
+          continuous learning and enjoy exploring new technologies to solve
+          complex problems.
         </p>
       </section>
       <section className="grid gap-y-6">
