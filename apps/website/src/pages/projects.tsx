@@ -34,7 +34,7 @@ export default function HomePage({}: InferGetStaticPropsType<
               username="muathcs"
               title="Celebrity Personalised messages Platform (please wait 30 seconds for the server to load)"
               repoName="video-streaming-platform.git"
-              description="Testing Login email:mm1@gmail.com password:123456 \n I developed a platform where users can book personalized shoutouts from celebrities, inspired by the idea of connecting fans with their favorite public figures in a more personal way. The project uses a modern tech stack: React for the front-end, Node.js/Express for the back-end, PostgreSQL for the database, and Firebase for authentication. It also features an AI-powered recommender system built with Python and PyTorch, suggesting content based on user preferences and behavior. Key features include a comprehensive notification system to keep users updated, and a robust refund system to manage cancellations and disputes efficiently. This project demonstrates full-stack development with advanced features like real-time notifications and personalized recommendations."
+              description="Testing Login email:mm1@gmail.com password:123456 \n I developed a platform where users can book personalized shoutouts from celebrities, inspired by the idea of connecting fans with their favorite public figures in a more personal way. The project uses a modern tech stack: React for the front-end, Node.js/Express for the back-end, PostgreSQL for the database, and Firebase for authentication. It also features an AI-powered recommender system built with Python and PyTorch, suggesting content based on user preferences and behavior. Key features include a comprehensive notification system to keep users updated, and a robust refund system to manage cancellations and disputes efficiently. This project demonstrates full-stack development with advanced features like real-time notifications and personalized recommendations. Client and Server are hosted on Render, PostgreSQL server on supabase"
               live="https://vid-stream-cl.onrender.com/"
               image={
                 <Image
@@ -53,7 +53,7 @@ export default function HomePage({}: InferGetStaticPropsType<
               username="muathcs"
               title="Digital E-Commerce Store"
               repoName="ReserverIt.git"
-              description="I developed a digital e-commerce store enabling users to buy and sell a variety of digital products, such as templates, icons, and UI designs. The technology stack includes NEXT.js for both the front-end and back-end, with PostgreSQL serving as the database. File uploads are efficiently managed using UploadThing, while Zod is employed for robust server-side validation. The application is styled with Tailwind CSS, ensuring a modern and responsive design. Additionally, Stripe Custom Accounts are integrated to securely handle payments between buyers and sellers, streamlining the transaction process. This project showcases a comprehensive digital marketplace with secure payment handling and a user-friendly interface."
+              description="I developed a digital e-commerce store enabling users to buy and sell a variety of digital products, such as templates, icons, and UI designs. The technology stack includes NEXT.js for both the front-end and back-end, with PostgreSQL serving as the database. File uploads are efficiently managed using UploadThing, while Zod is employed for robust server-side validation. The application is styled with Tailwind CSS, ensuring a modern and responsive design. Additionally, Stripe Custom Accounts are integrated to securely handle payments between buyers and sellers, streamlining the transaction process. This project showcases a comprehensive digital marketplace with secure payment handling and a user-friendly interface. Hosted on Vercel and PostgreSQL on Supabase"
               live="https://reserver-it.vercel.app/"
               image={
                 <Image
@@ -89,7 +89,7 @@ export default function HomePage({}: InferGetStaticPropsType<
               username="muathcs"
               repoName="NextJS-FinanceApp"
               title="FinanceApp"
-              description="I developed a finance tracking app using Next.js and Firebase to help users effectively manage and track their expenses. The app allows users to categorize their spending, set budgets, and view real-time insights into their financial habits. With Firebase for secure authentication and database management, users can easily log in, store their data, and access it across devices."
+              description="I developed a finance tracking app using Next.js and Firebase to help users effectively manage and track their expenses. The app allows users to categorize their spending, set budgets, and view real-time insights into their financial habits. With Firebase for secure authentication and database management, users can easily log in, store their data, and access it across devices. Hosted using Vercel"
               live="https://next-js-finance-app-blush.vercel.app/"
               image={
                 <img
@@ -105,8 +105,8 @@ export default function HomePage({}: InferGetStaticPropsType<
               cols={8}
               username="muathcs"
               repoName="twitter-clone"
-              title="Twitter Clone Type-Script and Mongodb (please wait 30 seconds for the server to load)"
-              description="I built a Twitter clone primarily to showcase my UI skills, using TypeScript and MongoDB. While it replicates some core features of the popular platform, including real-time posting, user authentication, and a responsive feed, the main focus was on creating a visually appealing and interactive user interface. This project demonstrates my ability to work with modern web technologies and full-stack development, with a particular emphasis on front-end design and user experience. The use of TypeScript ensures robust type safety, while MongoDB provides efficient data storage. Although the server is functional, the project's strength lies in its UI implementation, showcasing my skills in building dynamic, visually engaging applications. (Please allow 30 seconds for the server to load.)"
+              title="Twitter Clone Type-Script and Mongodb"
+              description="I built a Twitter clone primarily to showcase my UI skills, using TypeScript and MongoDB. While it replicates some core features of the popular platform, including real-time posting, user authentication, and a responsive feed, the main focus was on creating a visually appealing and interactive user interface. This project demonstrates my ability to work with modern web technologies and full-stack development, with a particular emphasis on front-end design and user experience. The use of TypeScript ensures robust type safety, while MongoDB provides efficient data storage. Although the server is functional, the project's strength lies in its UI implementation, showcasing my skills in building dynamic, visually engaging applications. Hosted both client and server on Render."
               live="https://twitter-clone-client-v76u.onrender.com/"
               image={
                 <img
