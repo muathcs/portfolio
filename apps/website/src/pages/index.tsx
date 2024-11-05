@@ -73,7 +73,7 @@ export default function HomePage({
         <h2 className="tracking-tight font-bold text-xl">Find Me Online</h2>
         <LunchboxGrid>
           <LunchboxItemLinkGitHub rows={1} cols={4} username="muathcs" />
-          <LunchboxItemLinkTwitter rows={1} cols={4} username="muathcsx" />
+          {/* <LunchboxItemLinkTwitter rows={1} cols={4} username="muathcsx" /> */}
           {/* <LunchboxItemLinkYouTube
             rows={1}
             cols={4}

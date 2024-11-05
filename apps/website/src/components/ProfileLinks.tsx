@@ -17,11 +17,11 @@ const internetProfiles = {
     icon: BsLinkedin,
     href: 'https://www.linkedin.com/in/muath-k-416bbb2a6/',
   },
-  twitter: {
-    label: 'Twitter',
-    icon: BsTwitter,
-    href: 'https://x.com/muathcsx',
-  },
+  // twitter: {
+  //   label: 'Twitter',
+  //   icon: BsTwitter,
+  //   href: 'https://x.com/muathcsx',
+  // },
   stackoverflow: {
     label: 'StackOverflow',
     icon: BsStackOverflow,
