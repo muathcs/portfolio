@@ -32,6 +32,25 @@ export default function HomePage({}: InferGetStaticPropsType<
               rows={4}
               cols={8}
               username="muathcs"
+              title="Customer Loyalty Platform (please wait 30 seconds for the server to load)"
+              repoName="loyaly"
+              description="Testing Login email:j@gmail.com password:Password@1 \n I developed a customer loyalty platform that helps small merchants build stronger relationships with their customers and drive repeat business. The platform enables businesses to create loyalty programs, track customer engagement, and reward customers with points and discounts. Built with React, Node.js/Express, PostgreSQL, and Firebase authentication. Key features include customizable loyalty programs, real-time analytics, automated rewards, and comprehensive notifications. Client and Server are hosted on Render, PostgreSQL server on supabase"
+              live="https://www.tajmee.com/"
+              image={
+                <Image
+                  alt="Tech Interview Handbook"
+                  className="object-contain group-hover:scale-105 transition rounded-lg cursor-pointer"
+                  width={400}
+                  height={400}
+                  src="/img/loyaltyPic.png"
+                />
+              }
+            />
+            <LunchboxItemLinkGitHubProject
+              className="group"
+              rows={4}
+              cols={8}
+              username="muathcs"
               title="Celebrity Personalised messages Platform (please wait 30 seconds for the server to load)"
               repoName="video-streaming-platform.git"
               description="Testing Login email:mm1@gmail.com password:123456 \n I developed a platform where users can book personalized shoutouts from celebrities, inspired by the idea of connecting fans with their favorite public figures in a more personal way. The project uses a modern tech stack: React for the front-end, Node.js/Express for the back-end, PostgreSQL for the database, and Firebase for authentication. It also features an AI-powered recommender system built with Python and PyTorch, suggesting content based on user preferences and behavior. Key features include a comprehensive notification system to keep users updated, and a robust refund system to manage cancellations and disputes efficiently. This project demonstrates full-stack development with advanced features like real-time notifications and personalized recommendations. Client and Server are hosted on Render, PostgreSQL server on supabase"

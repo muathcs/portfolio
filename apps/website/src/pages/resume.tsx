@@ -44,20 +44,28 @@ export default function HomePage({}: InferGetStaticPropsType<
                 />
               }
               className="cursor-pointer"
-              company="Sabratha Private Clinic"
+              company="Customer Loyalty Platform"
               description={
                 <ul className="list-disc">
-                  <li>worked on the clinic's responsive website.</li>
                   <li>
-                    Integrated video call feature for patients to connect with
-                    families.
+                    Led development of modern web interface using React,
+                    TypeScript, Tailwind CSS, and Framer Motion for small
+                    merchants.
                   </li>
-                  <li>Set up and managed email newsletters for patients</li>
+                  <li>
+                    Built library of 15+ reusable React components and custom
+                    hooks, accelerating development by 40%.
+                  </li>
+
+                  <li>
+                    Developed responsive dashboards with interactive charts and
+                    real-time API connections.
+                  </li>
                 </ul>
               }
-              jobTitle="Software Engineer Intern"
-              start={'June-2022'}
-              end={'September-2022'}
+              jobTitle="Frontend Developer"
+              start={'July-2024'}
+              end={'Present'}
               rows={2}
               cols={4}
             />
@@ -73,21 +81,23 @@ export default function HomePage({}: InferGetStaticPropsType<
               description={
                 <ul className="list-disc">
                   <li>
-                    Developed and maintained internal tools for administrative
-                    workflows.
+                    Developed interactive Next.js dashboard with real-time
+                    performance metrics and data visualizations.
                   </li>
                   <li>
-                    Implemented RESTful APIs and optimized database queries.
+                    Built dynamic, responsive UI with React and Tailwind CSS,
+                    incorporating charts and seamless backend integration.
                   </li>
                   <li>
-                    Created a Tableau dashboard for real-time employee
-                    attendance monitoring.
+                    Created robust client-side logic for alerts and
+                    notifications using WebSockets for instant operational
+                    responses.
                   </li>
                 </ul>
               }
-              jobTitle="Software Engineer Intern"
+              jobTitle="Software Engineer"
               start={'June-2023'}
-              end={'june-2024'}
+              end={'May-2024'}
               rows={2}
               cols={4}
             />
@@ -98,6 +108,17 @@ export default function HomePage({}: InferGetStaticPropsType<
           <div>
             <ul className="list-disc pl-4">
               {[
+                {
+                  year: 2025,
+                  title: 'Customer Loyalty Platform',
+                  href: 'https://www.tajmee.com/',
+                  description: (
+                    <>
+                      A platform for small merchants to manage loyalty programs
+                      and drive customer engagement
+                    </>
+                  ),
+                },
                 {
                   year: 2024,
                   title: 'Celebrity Personalised Messages Platform',

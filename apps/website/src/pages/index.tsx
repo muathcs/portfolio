@@ -42,13 +42,13 @@ export default function HomePage({
       <section className="grid gap-y-6">
         <h2 className="sr-only tracking-tight font-bold text-4xl">About</h2>
         <p className="text-zinc-800 col-span-3">
-          I'm a dedicated Software Engineer with over a year of professional
-          experience and more than four years of programming expertise. I have
-          built and contributed to large-scale projects, including a
-          video-sharing platform, using technologies like React, TypeScript,
-          Node.js, Express, and PostgreSQL. I specialize in writing clean,
-          well-tested, production-ready code and have experience with modern
-          tools like Jest, CronJobs, and Stripe integration.
+          I'm a dedicated Software Engineer with over 2 years of professional
+          experience and more than 5 years of programming expertise. I have
+          built and contributed to large-scale projects, including a Loyalty
+          Software Platform, using technologies like React, TypeScript, Node.js,
+          Express, and PostgreSQL. I specialize in writing clean, well-tested,
+          production-ready code and have experience with modern tools like Jest,
+          CronJobs, and Stripe integration.
           <br />
           <br />
           In addition to my core expertise, my work spans a wide range of
@@ -58,9 +58,9 @@ export default function HomePage({
           disease detection system and an image classifier, applying advanced
           algorithms to tackle challenging real-world problems.
           <br />
-          <br />I also gained valuable experience as a software engineer intern
-          at a private health clinic. This role allowed me to apply my skills in
-          a real-world healthcare setting, where I worked on improving system
+          <br />I also gained valuable experience as a software engineer at a
+          private health clinic. This role allowed me to apply my skills in a
+          real-world healthcare setting, where I worked on improving system
           performance, developing APIs, and creating tools to streamline
           workflows. This experience not only enhanced my technical abilities
           but also gave me insight into how technology can directly impact and
